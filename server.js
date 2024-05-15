@@ -16,7 +16,7 @@ http.createServer(app).listen(port, host, () => {
 ╚══════╝╚══════╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝
 
 
-ZEXXA REST API
+GKLAXY REST API
 Server running on http://${host}:` + port)
 console.log(`Hello ${creator}`)
 })

@@ -19,7 +19,7 @@ require('dotenv').config()
 
 //_______________________ ┏  Main Setting  ┓ _______________________\\
 
-creator = '乂ZEXXA乂' // Nama 
+creator = '乂GALAXY乂' // Nama 
 port = 8080 //port host
 LimitApikey = 1000 // Limit Apikey default
 

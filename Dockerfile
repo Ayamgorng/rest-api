@@ -7,5 +7,6 @@ RUN apt-get install nodejs -y
 WORKDIR /app
 COPY . /app
 RUN npm install
+RUN npm install -g validator
 CMD ["npm", "start"]
 EXPOSE 8080
